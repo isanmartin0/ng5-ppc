@@ -58,10 +58,10 @@ testing:
     useUnitTestingKarmaConfigurationFileSpecificPath: false
     unitTestingKarmaConfigurationFileSpecificPath:
     unitTesting:
-      - feature
-      - develop
-      - release
-      - hotfix
+      #- feature
+      #- develop
+      #- release
+      #- hotfix
 
     useE2ETestingFlags: false
     e2eTestingFlags:
